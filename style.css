@@ -21,6 +21,11 @@ nav {
 	background-color: rgb(64, 32, 64);
 }
 
+nav ul li {
+	width: 100px;
+	border: 2px ridge white;
+}
+
 aside {
 	background-color: #0000FF;
 }
@@ -35,13 +40,13 @@ section {
 
 h1 {
 	box-shadow: 3px 3px 5px 1px black;
-	font-size: 72px;
+	font-size: 5em;
 	text-shadow: 5px 5px 2px grey;
 	text-align: center;
 }
 
 p {
-	font-size:16px;
+	font-size:1.2em;
 	text-align: justify;
 }
 

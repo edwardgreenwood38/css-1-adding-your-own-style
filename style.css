@@ -1,4 +1,30 @@
-a
-{
+body {
+	background-color: #06A933;
+	color: white;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
 	text-decoration: none;
+	color:crimson;
+}
+
+a:visited {
+	color:#0000FF;
+}
+
+a:hover {
+	color:white;
+}
+
+nav {
+	background-color: rgb(64, 32, 64);
+}
+
+aside {
+	background-color: #0000FF;
+}
+
+nav, aside {
+	color:burlywood
 }
